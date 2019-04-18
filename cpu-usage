@@ -1,0 +1,128 @@
+https://www.youtube.com/watch?v=a00GQ1Gi6YI
+  386   356 root     S    1727m  86%   2   7% /usr/lib/chromium/chrome --type=re
+https://www.twitch.tv/
+  459   429 root     S    1826m  91%   1   9% /usr/lib/chromium/chrome --type=re
+https://www.roblox.com/
+  541   511 root     S    1097m  55%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.reddit.com/
+  600   569 root     S    1209m  60%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.cnn.com/
+  677   647 root     R    1314m  65%   2   5% /usr/lib/chromium/chrome --type=re
+https://translate.google.com/
+  772   742 root     S    1066m  53%   3   0% /usr/lib/chromium/chrome --type=re
+https://www.researchgate.net/
+  829   799 root     S    1065m  53%   0   0% /usr/lib/chromium/chrome --type=re
+http://www.espn.com/
+  886   857 root     R    1233m  61%   3   2% /usr/lib/chromium/chrome --type=re
+https://www.cricbuzz.com/
+  961   931 root     S    1056m  53%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/
+ 1017   987 root     R    1694m  84%   3   0% /usr/lib/chromium/chrome --type=re
+https://www.imdb.com/
+ 1075  1045 root     S    1095m  55%   2   0% /usr/lib/chromium/chrome --type=re
+http://www.onlinetechstudio.xyz/
+ 1136  1106 root     S    3872m 193%   1  98% /usr/lib/chromium/chrome --type=re
+
+########################################
+
+https://www.youtube.com/watch?v=a00GQ1Gi6YI
+ 1300  1270 root     S    1737m  87%   2   9% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/watch?v=a00GQ1Gi6YI
+ 1300  1270 root     S    1742m  87%   1   9% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/watch?v=a00GQ1Gi6YI
+ 1300  1270 root     S    1743m  87%   2   4% /usr/lib/chromium/chrome --type=re
+https://www.twitch.tv/
+ 1391  1361 root     S    1816m  90%   2   6% /usr/lib/chromium/chrome --type=re
+https://www.twitch.tv/
+ 1391  1361 root     S    1833m  91%   2  19% /usr/lib/chromium/chrome --type=re
+https://www.twitch.tv/
+ 1391  1361 root     S    1839m  92%   0  11% /usr/lib/chromium/chrome --type=re
+https://www.roblox.com/
+ 1488  1458 root     S    1095m  55%   1   3% /usr/lib/chromium/chrome --type=re
+https://www.roblox.com/
+ 1488  1458 root     S    1071m  53%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.roblox.com/
+ 1488  1458 root     S    1072m  53%   3   0% /usr/lib/chromium/chrome --type=re
+https://www.reddit.com/
+ 1559  1530 root     S    1228m  61%   1   0% /usr/lib/chromium/chrome --type=re
+https://www.reddit.com/
+ 1559  1530 root     S    1229m  61%   0   2% /usr/lib/chromium/chrome --type=re
+https://www.reddit.com/
+ 1559  1530 root     R    1221m  61%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.cnn.com/
+ 1651  1622 root     R    1338m  67%   2  15% /usr/lib/chromium/chrome --type=re
+https://www.cnn.com/
+ 1651  1622 root     S    1339m  67%   2   9% /usr/lib/chromium/chrome --type=re
+https://www.cnn.com/
+ 1651  1622 root     S    1337m  67%   1  14% /usr/lib/chromium/chrome --type=re
+https://translate.google.com/
+ 1760  1731 root     S    1066m  53%   1   3% /usr/lib/chromium/chrome --type=re
+https://translate.google.com/
+ 1760  1731 root     S    1042m  52%   1   0% /usr/lib/chromium/chrome --type=re
+https://translate.google.com/
+ 1760  1731 root     S    1042m  52%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.researchgate.net/
+ 1833  1803 root     S    1075m  54%   0   7% /usr/lib/chromium/chrome --type=re
+https://www.researchgate.net/
+ 1833  1803 root     S    1047m  52%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.researchgate.net/
+ 1833  1803 root     S    1050m  52%   0   0% /usr/lib/chromium/chrome --type=re
+http://www.espn.com/
+ 1906  1877 root     S    1228m  61%   2   5% /usr/lib/chromium/chrome --type=re
+http://www.espn.com/
+ 1906  1877 root     R    1223m  61%   3   0% /usr/lib/chromium/chrome --type=re
+http://www.espn.com/
+ 1906  1877 root     R    1209m  60%   1   0% /usr/lib/chromium/chrome --type=re
+https://www.cricbuzz.com/
+ 1994  1964 root     S    1057m  53%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.cricbuzz.com/
+ 1994  1964 root     S    1033m  51%   3   0% /usr/lib/chromium/chrome --type=re
+https://www.cricbuzz.com/
+ 1994  1964 root     S    1033m  51%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/
+ 2065  2035 root     S    1697m  85%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/
+ 2065  2035 root     S    1697m  85%   1   0% /usr/lib/chromium/chrome --type=re
+https://www.youtube.com/
+ 2065  2035 root     S    1140m  57%   2   0% /usr/lib/chromium/chrome --type=re
+https://www.imdb.com/
+ 2141  2111 root     S    1095m  55%   0   0% /usr/lib/chromium/chrome --type=re
+https://www.imdb.com/
+ 2141  2111 root     S    1071m  53%   3   0% /usr/lib/chromium/chrome --type=re
+https://www.imdb.com/
+ 2141  2111 root     S    1072m  53%   2   0% /usr/lib/chromium/chrome --type=re
+http://www.onlinetechstudio.xyz/
+ 2216  2186 root     S    3878m 193%   0 100% /usr/lib/chromium/chrome --type=re
+http://www.onlinetechstudio.xyz/
+ 2216  2186 root     S    3855m 192%   0  95% /usr/lib/chromium/chrome --type=re
+http://www.onlinetechstudio.xyz/
+ 2216  2186 root     S    3855m 192%   0  98% /usr/lib/chromium/chrome --type=re
+
+
+###### 
+https://www.youtube.com/watch?v=a00GQ1Gi6YI
+[19%, 38%, 28%, 24%, 15%, 6%, 9%, 5%, 11%, 9%, 3%, 10%, 8%, 7%, 4%, 5%, 9%, 4%, 12%, 10%, 13%, 9%, 13%, 6%, 11%, 13%, 6%, 6%, 8%, 6%, 15%, 16%, 18%, 6%, 2%, 8%, 7%, 4%, 2%, 5%, 4%, 2%, 11%, 12%, 8%, 10%, 10%, 11%, 10%, 10%, 14%, 12%, 10%, 7%, 9%, 9%, 26%, 9%, 4%, 9%, 9%, 5%, 7%, 7%, 10%, 12%, 9%, 9%, 8%, 6%, 9%, 13%, 10%, 12%, 9%, 7%, 5%, 7%, 10%, 11%, 9%, 12%, 6%, 9%, 5%, 6%, 4%, 13%, 7%, 12%]
+https://www.twitch.tv/
+[33%, 9%, 22%, 12%, 20%, 19%, 20%, 11%, 10%, 17%, 19%, 15%, 14%, 17%, 18%, 15%, 14%, 24%, 11%, 16%, 18%, 18%, 19%, 20%, 18%, 15%, 22%, 15%, 17%, 17%, 12%, 14%, 17%, 19%, 17%, 22%, 15%, 18%, 29%, 19%, 20%, 16%, 21%, 21%, 25%, 15%, 18%, 18%, 12%, 19%, 19%, 18%, 16%, 23%, 20%, 22%, 18%, 16%, 20%, 13%, 15%, 16%, 14%, 15%, 21%, 13%, 22%, 19%, 15%, 17%, 14%, 19%, 13%, 16%, 14%, 17%, 14%, 9%, 18%, 18%, 18%, 15%, 21%, 19%, 19%, 20%, 21%, 13%, 16%, 18%]
+https://www.roblox.com/
+[10%, 5%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 1%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 3%, 0%, 0%]
+https://www.reddit.com/
+[29%, 19%, 15%, 20%, 19%, 21%, 5%, 2%, 3%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 13%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 7%, 0%, 0%, 0%, 2%, 2%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%]
+https://www.cnn.com/
+[7%, 3%, 4%, 10%, 11%, 11%, 12%, 4%, 11%, 5%, 8%, 5%, 11%, 7%, 8%, 8%, 10%, 4%, 8%, 10%, 8%, 4%, 8%, 17%, 8%, 4%, 8%, 10%, 11%, 10%, 8%, 8%, 10%, 3%, 11%, 8%, 9%, 9%, 10%, 8%, 8%, 15%, 9%, 7%, 9%, 10%, 8%, 7%, 5%, 13%, 3%, 5%, 10%, 5%, 9%, 5%, 8%, 8%, 5%, 10%, 3%, 8%, 8%, 10%, 12%, 5%, 10%, 5%, 10%, 10%, 12%, 13%, 10%, 9%, 9%, 10%, 22%, 15%, 10%, 8%, 10%, 10%, 10%, 10%, 7%, 9%, 10%, 8%, 12%, 8%]
+https://translate.google.com/
+[2%, 3%, 0%, 0%, 3%, 2%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 1%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%]
+https://www.researchgate.net/
+[3%, 0%, 0%, 0%, 0%, 0%, 5%, 2%, 0%, 0%, 0%, 0%, 1%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 0%, 6%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 7%, 0%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 5%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 7%, 0%, 0%]
+http://www.espn.com/
+[23%, 2%, 5%, 5%, 5%, 3%, 3%, 0%, 5%, 8%, 8%, 7%, 7%, 7%, 15%, 3%, 3%, 3%, 0%, 3%, 3%, 0%, 5%, 0%, 0%, 3%, 3%, 0%, 0%, 2%, 3%, 1%, 0%, 2%, 0%, 2%, 0%, 2%, 0%, 0%, 2%, 2%, 2%, 0%, 3%, 2%, 0%, 0%, 2%, 2%, 3%, 2%, 3%, 0%, 5%, 0%, 2%, 3%, 3%, 5%, 3%, 5%, 3%, 3%, 0%, 2%, 0%, 3%, 2%, 0%, 4%, 0%, 3%, 0%, 0%, 3%, 3%, 3%, 0%, 0%, 5%, 2%, 0%, 0%, 3%, 3%, 5%, 0%, 0%, 5%]
+https://www.cricbuzz.com/
+[5%, 2%, 29%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 12%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 1%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 5%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 3%, 3%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 1%, 0%, 0%, 0%]
+https://www.youtube.com/
+[28%, 23%, 0%, 0%, 0%, 5%, 0%, 0%, 2%, 2%, 0%, 3%, 2%, 3%, 0%, 0%, 3%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 3%, 0%, 0%, 2%, 2%, 0%, 2%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 2%, 2%, 2%, 0%, 0%, 3%, 0%, 0%, 3%, 2%, 0%, 0%, 0%, 2%, 0%, 3%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 1%]
+https://www.imdb.com/
+[15%, 3%, 2%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 2%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 0%, 3%, 0%]
+http://www.onlinetechstudio.xyz/
+[1%, 98%, 100%, 100%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 98%, 100%, 100%, 100%, 100%, 98%, 98%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 100%, 100%, 98%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 100%, 98%, 100%, 100%, 100%, 98%, 100%, 100%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 100%, 98%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 93%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 98%, 100%, 98%, 98%, 98%, 98%, 98%, 100%, 100%, 98%, 100%, 100%, 100%, 100%, 100%, 100%, 98%, 100%]
+http://lesbians4u.org/
+[74%, 90%, 69%, 65%, 86%, 63%, 78%, 87%, 90%, 80%, 87%, 97%, 93%, 83%, 90%, 90%, 76%, 71%, 85%, 83%, 68%, 53%, 100%, 61%, 63%, 95%, 75%, 82%, 81%, 83%, 59%, 82%, 89%, 95%, 95%, 85%, 87%, 92%, 77%, 83%, 90%, 85%, 68%, 93%, 85%, 82%, 95%, 93%, 68%, 90%, 69%, 76%, 79%, 84%, 84%, 82%, 98%, 78%, 81%, 91%, 91%, 89%, 87%, 84%, 74%, 93%, 80%, 63%, 64%, 86%, 88%, 58%, 64%, 95%, 88%, 82%, 88%, 54%, 67%, 52%, 85%, 68%, 66%, 71%, 66%, 88%, 85%, 88%, 91%, 95%]
